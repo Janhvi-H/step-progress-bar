@@ -4,7 +4,7 @@ A lightweight and customizable step progress bar built with HTML, CSS, and JavaS
 
 ## Demo
 
-Check out the live demo (https://janhvi-h.github.io/step-progress-bar/).
+Check out the live demo [here](https://janhvi-h.github.io/step-progress-bar/).
 
 ## Features
 
